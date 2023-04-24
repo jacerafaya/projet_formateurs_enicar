@@ -1,0 +1,76 @@
+@import 'https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css';
+@import 'https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css';
+
+body {
+  background: #c63232;
+}
+
+a {
+  cursor: pointer;
+}
+
+.navbar {
+  margin-bottom: 30px;
+  color: rgb(217, 66, 66);
+
+}
+
+.card {
+  border: none;
+  -webkit-box-shadow: 0 1px 2px 0 rgba(147, 13, 13, 0.893);
+  box-shadow: 0 1px 2px 0 rgba(147, 13, 13, 0.893);
+  margin-bottom: 30px;
+  color: rgb(217, 66, 66);
+}
+
+.w-60 {
+  width: 60px;
+  background:rgba(147, 13, 13, 0.893);
+}
+
+h1{color: #bb0e0e;
+}
+h2{color: #bb0e0e;
+}
+h3{color: #bb0e0e;
+}
+h4{color: #bb0e0e;
+}
+h5{color: #100101;
+}
+h6 {
+  margin: 0 0 10px;
+  font-weight: 600;
+  color: #100101;
+}
+
+.social-links li a {
+  -webkit-border-radius: 50%;
+  background-color: rgba(99, 37, 17, 0.85);
+  border-radius: 50%;
+  color: rgb(190, 41, 41);
+  display: inline-block;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  width: 30px;
+  font-size: 12px;
+}
+
+a {
+  color: #bb0e0e;
+}
+i {
+color: rgb(217, 66, 66);
+}
+
+a {
+color: rgb(94, 8, 8);
+}
+i {
+  color: rgb(217, 66, 66);
+  }
+  .btn-primary    {color:rgb(148, 23, 23); }
+  span {
+    content: "\00A9";
+  }
